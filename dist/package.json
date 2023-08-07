@@ -1,0 +1,10 @@
+{
+  "name": "rn-yurberz-packages",
+  "version": "1.0.3",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "description": "A package for testing create npm packages",
+  "author": "yurberz",
+  "license": "MIT",
+  "repository": ""
+}
